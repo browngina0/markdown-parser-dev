@@ -31,8 +31,9 @@ Tiny toolkit written for fun and learning.
 ## Usage
 
 ```bash
-go run ./...
+chmod +x scripts/setup.sh && ./scripts/setup.sh
 ```
+
 
 ## Notes
 
