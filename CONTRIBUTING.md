@@ -13,3 +13,7 @@ pull requests are welcome.
 
 Keep changes small and focused. If you touch behaviour, please mention it in
 the PR description.
+
+## Changelog
+
+- misc fixes and tweaks
