@@ -17,3 +17,7 @@ the PR description.
 ## Changelog
 
 - misc fixes and tweaks
+
+## Notes
+
+Small changes land here over time.
