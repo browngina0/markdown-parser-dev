@@ -21,3 +21,8 @@ the PR description.
 ## Notes
 
 Small changes land here over time.
+
+## TODO
+
+- [ ] add tests
+- [ ] improve docs
