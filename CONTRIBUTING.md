@@ -26,3 +26,7 @@ Small changes land here over time.
 
 - [ ] add tests
 - [ ] improve docs
+
+## Notes
+
+Small changes land here over time.
