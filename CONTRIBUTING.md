@@ -30,3 +30,8 @@ Small changes land here over time.
 ## Notes
 
 Small changes land here over time.
+
+## TODO
+
+- [ ] add tests
+- [ ] improve docs
