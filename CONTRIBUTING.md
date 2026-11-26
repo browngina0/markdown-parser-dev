@@ -35,3 +35,7 @@ Small changes land here over time.
 
 - [ ] add tests
 - [ ] improve docs
+
+## Changelog
+
+- misc fixes and tweaks
